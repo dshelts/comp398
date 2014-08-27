@@ -28,6 +28,21 @@ class List:
 				self.append(line.strip())
 
 
+	def search(self, item):
+		temp = self.head
+		lowItem = item.lower()
+		while temp.getNext() != None:
+			data = temp.getData().lower()
+			#data = data.lower()
+			if data == lowItem:
+				break
+			temp = temp.getNext()
+		data = temp.getData().lower()
+		#data = data.lower()
+		if data == lowItem:
+			print "Found, " + temp.getData()
+		else:
+			print str(item) + ", Not Found"
 
 	def __str__(self):
 		strBuffer = "["
