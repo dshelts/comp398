@@ -2,6 +2,7 @@ import LinkedList
 
 def main():
 	myFile = 'CardList.txt'
+	
 	myList = LinkedList.List()
 	myList.populate(myFile)
 	
