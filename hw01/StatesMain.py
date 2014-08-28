@@ -5,7 +5,7 @@ def main():
 
 	myFile = 'States.csv'
 	myList = LinkedList.List()
-	myList.populate(myFile)
+	myList.populate(myFile) 
 	
 	print myList
 

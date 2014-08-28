@@ -26,7 +26,6 @@ class List:
 		with open(fileName, 'r') as inFile:
 			for line in inFile:
 				self.append(line.strip())
-	
 
 	def search(self, item):
 		temp = self.head
