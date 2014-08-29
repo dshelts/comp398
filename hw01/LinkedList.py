@@ -1,6 +1,6 @@
 #HW1 Web App Linked list
 #Andrew Shelton
-
+#pre-style guide
 class Node:
 	def __init__(self, cargo = None, next = None, prev = None):
 		self.car = cargo
