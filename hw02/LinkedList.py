@@ -2,6 +2,8 @@
 #Andrew Shelton
 
 class Node:
+	#args: cargo= data, next and prev = connections for the linked list
+	#object to use in navigation
 	def __init__(self, cargo = None, next = None, prev = None):
 		self.car = cargo
 		self.next = next
@@ -16,6 +18,9 @@ class Node:
 	def getNext(self): 
 		return self.next
 
+	def getPrev(self):#unused
+		return self.prev
+	
 	def setPrev(self, prev):
 		self.prev = prev
 
@@ -24,19 +29,19 @@ class List:
 	def __init__(self):
 		self.head = None
 		self.tail = None
-	
-	def isEmpty(self):
-		return self.head == None
 
 	def append(self, cargo):
-
 		temp = Node(cargo)
 		
 		if self.head == None:
+			#if list is empty
 			self.head = temp
 			self.tail = temp
 		
 		else:
+			#set new nodes previous to current tail
+			#set current tail's next to new node
+			#set the tail of list to new node
 			temp.setPrev(self.tail) # tail <-prev-(TEMP)-next->None
 			self.tail.setNext(temp) #(Node)<-prev-(Tail)-next->(temp)
 			self.tail = temp #(temp) == (tail)
@@ -55,8 +60,9 @@ class List:
 			if data == lowItem:
 				break
 			temp = temp.getNext()
-
 		data = temp.getData().lower()
+
+		#Fixs off by one error and returns to result of the search
 		if data == lowItem:
 			print "Found, " + temp.getData()
 		else:
