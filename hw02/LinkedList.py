@@ -20,6 +20,7 @@ class Node:
 
 	def getPrev(self):#unused
 		return self.prev
+    
 	
 	def setPrev(self, prev):
 		self.prev = prev
