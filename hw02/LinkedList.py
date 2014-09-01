@@ -1,38 +1,104 @@
 #HW1 Web App Linked list
 #Andrew Shelton
 
-class Node:
-	#args: cargo= data, next and prev = connections for the linked list
-	#object to use in navigation
-	def __init__(self, cargo = None, next = None, prev = None):
-		self.car = cargo
-		self.next = next
-		self.prev = prev
-
-	def getData(self):
-		return str(self.car)
-	
-	def setNext(self, next):
-		self.next = next
-	
-	def getNext(self): 
-		return self.next
-
-	def getPrev(self):#unused
-		return self.prev
-    
-	
-	def setPrev(self, prev):
-		self.prev = prev
-
 
 class List:
+	"""Contructs a Linked List an empty List.
+
+	Contains a private Node class to be used by the List class.
+
+	Args:
+		None.
+	Returns:
+		Nothing.
+
+	"""
+	
+	class Node:
+	
+		def __init__(self, cargo = None, next = None, prev = None):
+		""" Contrusts a Node for the linked list.
+
+			Args: 
+				cargo = data, next = null, prev = null.
+			Returns:
+				Nothing. 
+		"""
+			self.car = cargo
+			self.next = next
+			self.prev = prev
+
+		def getData(self):
+			""" Gets the data from the node.
+				
+				Args:
+					self also access within its own object
+				Returns:
+					The cargo from the node as a string
+			"""
+			return str(self.car)
+
+		def setNext(self, next):
+			""" Sets the next link for the node.
+
+				Args:
+					next an instance of a node class.
+				Returns:
+					Nothing.
+			"""
+			self.next = next
+
+		def getNext(self): 
+			""" Returns the node asigned to next.
+
+				Args:
+					self allows access its own object
+				Returns:
+					the node objected assigned to next
+			"""
+			return self.next
+
+		def getPrev(self):
+			""" Sets the prev link for the node.
+
+				Args:
+					prev an instance of a node class.
+				Returns:
+					Nothing.
+				Currently unused.
+			"""
+			return self.prev
+
+		def setPrev(self, prev):
+			""" Sets the prev link for the node.
+
+				Args:
+					prev an instance of a node class.
+				Returns:
+					Nothing.
+			"""
+			self.prev = prev
+
 	def __init__(self):
+		""" Contrusts an empty list.
+
+			Args: 
+				head = Null until populated, tail = Null until populated
+			Returns:
+				Nothing. 
+		"""
 		self.head = None
 		self.tail = None
 
 	def append(self, cargo):
-		temp = Node(cargo)
+		""" Creates and appends a node to the List.
+
+			Args: 
+				self allows access to the List as Node class methods,  cargo data for the node
+			Returns:
+				Nothing. 
+		"""
+		temp = self.Node(cargo)
 		
 		if self.head == None:
 			#if list is empty
@@ -43,11 +109,18 @@ class List:
 			#set new nodes previous to current tail
 			#set current tail's next to new node
 			#set the tail of list to new node
-			temp.setPrev(self.tail) # tail <-prev-(TEMP)-next->None
-			self.tail.setNext(temp) #(Node)<-prev-(Tail)-next->(temp)
-			self.tail = temp #(temp) == (tail)
+			temp.setPrev(self.tail) 
+			self.tail.setNext(temp) 
+			self.tail = temp 
 
 	def populate(self, fileName): #assuming a newline seperated
+		""" Fills the list with information from a File, Assumes new line seperated.
+
+			Args:
+				self, and fileName.
+			returns:
+				nothing.
+		"""
 		with open(fileName, 'r') as inFile:
 			for line in inFile:
 				self.append(line.strip())#strip the \n 
@@ -70,6 +143,13 @@ class List:
 			print str(item) + ", Not Found"
 
 	def __str__(self):
+		""" allows the print function to work on this object.
+
+			Args: 
+				self
+			Returns:
+				Nothing. 
+		"""
 		strBuffer = "["
 		temp = self.head
 		count = 0
@@ -78,7 +158,7 @@ class List:
 			#print temp.getData()
 			strBuffer += temp.getData() + ", "
 			count += 1
-			if count%20 ==0:
+			if count % 20 == 0:
 				strBuffer = strBuffer[:-1] + '\n'  
 			temp = temp.getNext()
 		
