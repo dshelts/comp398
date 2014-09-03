@@ -1,6 +1,6 @@
 #HW1 Web App Linked list
 #Andrew Shelton
-
+"""Using google's style guide"""
 
 class List:
 	"""Contructs a Linked List an empty List.
