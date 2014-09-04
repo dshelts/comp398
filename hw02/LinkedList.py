@@ -17,13 +17,13 @@ class List:
 	class Node:
 	
 		def __init__(self, cargo = None, next = None, prev = None):
-		""" Contrusts a Node for the linked list.
+			""" Contructs a basic node class.
 
-			Args: 
-				cargo = data, next = null, prev = null.
-			Returns:
-				Nothing. 
-		"""
+				Args:
+					Cargo = data, next = next, prev = previous
+				returns:
+					None
+			"""
 			self.car = cargo
 			self.next = next
 			self.prev = prev
