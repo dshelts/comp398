@@ -150,10 +150,10 @@ class List:
 			Returns:
 				Nothing. 
 		"""
-		strBuffer = "["
+		strBuffer = "[ "
 		temp = self.head
 		count = 0
-
+		
 		while temp.getNext() != None:
 			#print temp.getData()
 			strBuffer += temp.getData() + ", "
@@ -162,7 +162,7 @@ class List:
 				strBuffer = strBuffer[:-1] + '\n'  
 			temp = temp.getNext()
 		
-		strBuffer += (temp.getData() + ']') #off by one fix
-			
+		strBuffer +=  (temp.getData() + ' ]') #off by one fix
+	
 		return strBuffer
 
