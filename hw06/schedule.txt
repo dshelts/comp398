@@ -176,7 +176,7 @@ EDUC- A,Intro to Tutoring Writin
 EDUC- A,Teaching English Lang Learner
 EDUC- A,Multiple Perspect on Literac
 EDUC- A,Schooling in Americ
-EDUC- A,"Special Education, Pre K - 
+EDUC- A,"Special Education Pre K - 
 EDUC- A,Issues in Early Care & Edu
 EDUC- A,Teaching Math and Scienc
 EDUC- A,Teaching Reading & Lang Art
@@ -205,7 +205,7 @@ ENG- A,Writing Popular Medi
 ENG- A,Writing Popular Medi
 ENG- A,Anglo-Saxon Literatur
 ENG- A,African-American Lit & Cultur
-ENG- A,"Empire, Race & the Victorians
+ENG- A,"Empire Race & the Victorians
 ENG- A,Feminist Fictio
 ENG- A,Introduction to World Cinem
 ENG- A,American Literature to
@@ -261,9 +261,9 @@ FSEM- A,Metal Armor & Spandex Tight
 FSEM- A,Middle Ages in Popular Cultur
 FSEM- A,The Myth of the Hieroglyp
 FSEM- A,The Psychology of Influenc
-FSEM- A,"Fan Comm, Cult & Creations
+FSEM- A,"Fan Comm Cult & Creations
 FSEM- A,Mutants and Mystic
-FSEM- A,"Epid., Contagion & Inequality
+FSEM- A,"Epid Contagion & Inequality
 GER- A,Elementary Germa
 GER- A,Elementary Germa
 GER- A,Intermediate Germa
@@ -299,7 +299,7 @@ HIST- A,America
 HIST- A,America 
 HIST- A,African Amer Hist Since
 HIST- A,History of Civil Rights Mvmn
-HIST- A,"U.S. Women, -
+HIST- A,"U.S. Women -
 HIST- A,German History  - Presen
 HIST- A,Early Islamic Soc (-
 HIST- A,Islam and the Wes
