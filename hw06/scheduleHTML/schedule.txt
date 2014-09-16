@@ -1,0 +1,532 @@
+ANTH,"Intro African,Diaspora Studies
+ANTH- A,Intro to Cultural Anthropolog
+ANTH- L,Intro to Cult Anthropology La
+ANTH- L,Intro to Cult Anthropology La
+ANTH- L,Intro to Cult Anthropology La
+ANTH- A,Feast or FamineEco Pol Foo
+ANTH- A,Language and Cultur
+ANTH- A,Peoples & Cultures of Latin A
+ANTH- A,Ind Stdy Urban Anthropolog
+ANTH- A,Research Method
+ANTH- A,Sem Religion in Anth Perspec
+ANTH- A,Ind Stdy Teaching Practicu
+ANTH- A,Senior Semina
+ARBC- A,Elementary Arabic 
+ARBC- A,Intermediate Arabic 
+ARBC- A,Ind Stdy Arabic II
+ARTH- A,Arts of the Western Traditio
+ARTH- L,Arts of the Western Trad La
+ARTH- L,Arts of the Western Trad La
+ARTH- A,Arts Western Trad (Enhanced
+ARTH- L,Arts Western Trad Enhanced La
+ARTH- A,African Visual Culture
+ARTH- A,Patronage & Art Early-Mod Ita
+ARTH- A,Modernism and Mass Cultur
+ARTH- A,Amer Art/ArchColonial to
+ARTH- A,Mediating Isla
+ARTH- A,Impossible Monsters Goy
+ARTH- A,Architectures of Isla
+ARTH- A,Selected Topic
+ARTH- A,Exhibition Desig
+ARTH- C,Individual Researc
+ARTS- A,Ind Stdy Teaching Assistan
+ARTS- A,Two-Dimensional Desig
+ARTS- A,Spatial Dynamic
+ARTS- A,Drawing 
+ARTS- A,Drawing 
+ARTS- A,Sculpture 
+ARTS- A,Painting 
+ARTS- A,Beginning Photograph
+ARTS- A,Graphic Design 
+ARTS- A,Ind Stdy TA Sculpture
+ARTS- A,Ind Stdy TA Spatial 
+ARTS- A,Ind Stdy Paintin
+ARTS- A,Ind Stdy Advanced Documentar
+ARTS- A,Ind Stdy Stone Sculptur
+ARTS- A,Intaglio Printmakin
+ARTS- A,Intermediate Photograph
+ARTS- A,Figure Drawing & Anatom
+ARTS- A,Film Production I
+ARTS- A,Selected Topic
+ARTS- A,Selected Topic
+ARTS- A,Selected Topic
+ARTS- A,Selected Topic
+ARTS- A,Ind Stdy Illustratio
+ARTS- A,Ind Stdy Advanced Productio
+AST- A,The Univers
+AST- L,The Universe La
+AST- L,The Universe La
+AST- A,The Solar Syste
+AST- A,Independent Stud
+BIO- A,Interview Tropical Field Bi
+BIO- A,Evolution & Ecolog
+BIO- L,Evolution & Ecology La
+BIO- L,Evolution & Ecology La
+BIO- L,Evolution & Ecology La
+BIO- L,Evolution & Ecology La
+BIO- A,Cells and Gene
+BIO- L,Cells and Genes La
+BIO- L,Cells and Genes La
+BIO- L,Cells and Genes La
+BIO- L,Cells and Genes La
+BIO- A,Environmental Scienc
+BIO- A,Genetic
+BIO- L,Genetics La
+BIO- A,Ecolog
+BIO- L,Ecology La
+BIO- A,Comparative Animal Behavio
+BIO- A,Introductory Physiolog
+BIO- L,Introductory Physiology La
+BIO- A,Independent Stud
+BIO- A,Independent Stud
+BIO- A,Independent Stud
+BIO- A,Evolutio
+BIO- L,Evolution La
+BIO- A,Biochemistr
+BIO- L,Biochemistry La
+BIO- A,Neurobiolog
+BIO- L,Neurobiology La
+BIO- A,Wetland
+BIO- A,Selected Topic
+BIO- A,Selected Topic
+BIO- A,Senior Semina
+BIO- A,Independent Researc
+BIO- A,Independent Researc
+BIO- C,Individual Researc
+BIO- C,Individual Researc
+BIO- C,Individual Researc
+CHEM- A,Independent Stud
+CHEM- A,Chemical Principle
+CHEM- A,Chemical Principle
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- L,Chemical Principles La
+CHEM- A,Independent Stud
+CHEM- A,Organic Chemistry I
+CHEM- A,Organic Chemistry I
+CHEM- L,Organic Chemistry II La
+CHEM- L,Organic Chemistry II La
+CHEM- L,Organic Chemistry II La
+CHEM- L,Organic Chemistry II La
+CHEM- L,Organic Chemistry II La
+CHEM- A,Independent Stud
+CHEM- A,Independent Stud
+CHEM- A,Current Prob in Environ Che
+CHEM- A,Biochemistr
+CHEM- A,Chemical Thermodynamic
+CHEM- L,Chemical Thermodynamics La
+CHEM- L,Chemical Thermodynamics La
+CHEM- A,Advanced Organic Chemistr
+CHEM- L,Advanced Organic Chemistry La
+CHEM- A,Independent Stud
+CHEM- A,Independent Researc
+CHEM- C,Individual Researc
+CHEM- C,Individual Researc
+CHEM- C,Individual Researc
+CHEM- C,Individual Researc
+CHEM- C,Individual Researc
+CHIN- A,Elementary Chinese 
+CHIN- A,Intermediate Chinese 
+CHIN- A,Ind Stdy Advanced Chines
+CLAS- A,Fall of the Roman Republi
+CLAS- A,Fall of the Roman Republi
+CLAS- A,Senior Semina
+CLAS- C,Individual Researc
+COMP- A,Foundations of Comp Theor
+COMP- A,"Robots, Games, & Prob Solving
+COMP- L,"Robots, Games, & Prob Sol Lab
+COMP- L,"Robots, Games, & Prob Sol Lab
+COMP- A,"Web Program, Graphics & Design
+COMP- A,Independent Stud
+COMP- A,Algorithm
+COMP- L,Algorithms La
+COMP- A,Principles of Programming Lan
+COMP- A,Web Application Developmen
+COMP- A,Independent Stud
+COMP- C,Individual Researc
+CW- A,Fiction Writing Form & Craf
+CW- A,Writing for Performanc
+CW- A,Advanced Poetry Worksho
+CW- A,Advanced Playwritin
+CW- A,Ind Stdy Advanced Poetr
+CW- A,Independent Stud
+CW- A,Ind Stdy Advanced Playwritin
+ECON- A,Introduction to Macroeconomic
+ECON- A,Introduction to Macroeconomic
+ECON- A,Introduction to Microeconomic
+ECON- A,Introduction to Microeconomic
+ECON- A,Microeconomic Theor
+ECON- A,Sweatshops in World Econom
+ECON- A,Women in US Econom
+ECON- A,Urban Economic
+ECON- A,Selected Topic
+ECON- A,International Financ
+ECON- A,Labor Econ & Industrial Rela
+ECON- A,History of Economic Though
+ECON- A,Economic Developmen
+ECON- A,Seminar Topics in Law & Eco
+ECON- C,Individual Researc
+EDUC- A,Developmental Issue
+EDUC- A,Intro to Tutoring Writin
+EDUC- A,Teaching English Lang Learner
+EDUC- A,Multiple Perspect on Literac
+EDUC- A,Schooling in Americ
+EDUC- A,"Special Education Pre K - 
+EDUC- A,Issues in Early Care & Edu
+EDUC- A,Teaching Math and Scienc
+EDUC- A,Teaching Reading & Lang Art
+EDUC- A,Secondary School Curriculu
+ENG- A,Basic Writin
+ENG- A,Writing for Multilingual Stu
+ENG- A,Writing for Multilingual Stu
+ENG- A,Writing for Multilingual Stu
+ENG- A,Independent Stud
+ENG- A,Writing Chocolates & Dragon
+ENG- A,Writing Multicultural Live
+ENG- A,Writing Chocolates & Dragon
+ENG- A,Writing Fil
+ENG- A,Writing Dreaming & Knowin
+ENG- A,Writing Travel & Exploratio
+ENG- A,Writing Pop Cultur
+ENG- A,Writing About Failur
+ENG- A,Writing About Failur
+ENG- A,Writing Pop Cultur
+ENG- A,Writing Powe
+ENG- A,Writing Writin
+ENG- A,Writing Powe
+ENG- A,Writing Exploration
+ENG- A,Writing Exploration
+ENG- A,Writing Popular Medi
+ENG- A,Writing Popular Medi
+ENG- A,Anglo-Saxon Literatur
+ENG- A,African-American Lit & Cultur
+ENG- A,"Empire Race & the Victorians
+ENG- A,Feminist Fictio
+ENG- A,Introduction to World Cinem
+ENG- A,American Literature to
+ENG- A,Novel in Multi-Ethnic Americ
+ENG- A,Introduction to Film Studie
+ENG- A,J.R.R. Tolkie
+ENG- A,Wrt in Professional Context
+ENG- A,Approaches to Lit and Cultur
+ENG- A,Ind Stdy Poetr
+ENG- A,Independent Stud
+ENG- A,Ind Stdy Teaching Hist Lan
+ENG- A,Feminist Theor
+ENG- A,Sexual Politics of Film Noi
+ENG- A,Young Adult Literatur
+ENG- A,Green Shakespear
+ENG- A,Semina
+ENG- A,Semina
+ENG- C,Individual Researc
+ENG- C,Individual Researc
+FR- A,Elementary French 
+FR- A,Elementary French 
+FR- A,French in Review 
+FR- A,French in Review I
+FR- A,Read & Converse 
+FR- A,Read and Converse I
+FR- A,Introduction to French Cinem
+FR- A,Renaissance Lit & Societ
+FR- A,Independent Stud
+FR- C,Individual Researc
+FSEM- A,L'Amerique
+FSEM- A,We Are What We At
+FSEM- A,The Edge of Reaso
+FSEM- A,Shadows of Wa
+FSEM- A,Rock of Age
+FSEM- A,America is Elsewher
+FSEM- A,Deep Tim
+FSEM- A,From Hell to Hogwart
+FSEM- A,Weapons of Mass Evolutio
+FSEM- A,No Place Like Hom
+FSEM- A,Baseball Myth and Legen
+FSEM- A,The Economics of Sport
+FSEM- A,Tales from Franc
+FSEM- A,Cognition in the Wil
+FSEM- A,Energy and Civilizatio
+FSEM- A,Displaying Dat
+FSEM- A,Mobile Storytellin
+FSEM- A,The Nature of Friendshi
+FSEM- A,The Legacy of Richard Wagne
+FSEM- A,How Sweet It Is
+FSEM- A,Psychology of Happines
+FSEM- A,Festivals Chaos & Orde
+FSEM- A,Metal Armor & Spandex Tight
+FSEM- A,Middle Ages in Popular Cultur
+FSEM- A,The Myth of the Hieroglyp
+FSEM- A,The Psychology of Influenc
+FSEM- A,"Fan Comm Cult & Creations
+FSEM- A,Mutants and Mystic
+FSEM- A,"Epid Contagion & Inequality
+GER- A,Elementary Germa
+GER- A,Elementary Germa
+GER- A,Intermediate Germa
+GER- A,Advanced Germa
+GER- A,Berlin Site Memory/Construc
+GER- A,Ind Stdy German Readin
+GER- A,Identity/Difference in Ger Cu
+GER- A,Senior Semina
+GK- A,Elementary Gree
+GK- A,Private Lives/Public Citizen
+HISP- A,Elementary Spanish 
+HISP- A,Elementary Spanish 
+HISP- A,Advanced Basic Spanish 
+HISP- A,Advanced Basic Spanish 
+HISP- A,Advanced Basic Spanish 
+HISP- A,Advanced Basic Spanish 
+HISP- A,Intermediate Spanish 
+HISP- A,Intermediate Spanish 
+HISP- A,Intermediate Spanish 
+HISP- A,Composition and Conversatio
+HISP- A,Composition and Conversatio
+HISP- A,Composition and Conversatio
+HISP- A,The Hispanic World Spai
+HISP- A,s Madri
+HISP- A,Independent Stud
+HISP- A,Mythical Foundations of Lat A
+HISP- A,Seminar in Hispanic Studie
+HIST- A,Ancient Western Histor
+HIST- L,Ancient Western History La
+HIST- L,Ancient Western History La
+HIST- A,History of Europe - C
+HIST- A,America 
+HIST- A,America 
+HIST- A,African Amer Hist Since
+HIST- A,History of Civil Rights Mvmn
+HIST- A,"U.S. Women -
+HIST- A,German History  - Presen
+HIST- A,Early Islamic Soc (-
+HIST- A,Islam and the Wes
+HIST- A,Modern Chin
+HIST- A,Independent Stud
+HIST- A,Junior Colloquiu
+HIST- A,Power & Protest in the U.S
+HIST- A,Late AntiquityTransf & Migra
+HIST- A,Semina
+HIST- C,Individual Researc
+HIST- C,Individual Researc
+INT- A,Ponds to Particles 
+INT- L,Ponds to Particles I La
+INT- A,Water Resources Plan & Mgmn
+INT- A,Bhutanese Language & Cultur
+INT- A,Contemporary Bhutanese Societ
+INT- A,Practicum in Bhuta
+INT- C,Individual Researc
+International Relations
+IR- C,Individual Researc
+ITAS- A,Basic Italian 
+ITAS- A,Basic Italian 
+ITAS- A,Basic Italian 
+ITAS- A,Intermediate Italia
+ITAS- A,Adv Oral & Written Communi
+ITAS- A,Italy & Transnat'l Experienc
+ITAS- A,Italy & Transnat'l Experienc
+ITAS- A,Selected Topic
+JAPN- A,Elementary Japanese 
+JAPN- A,Intermediate Japanese 
+LAT- A,Elementary Lati
+LAT- A,Review of Lati
+LAT- A,From Romulus to Rom
+LAT- A,From Romulus to Rom
+MATH- A,Calculus 
+MATH- A,Calculus 
+MATH- A,Calculus I
+MATH- A,Shape of Spac
+MATH- A,Concepts of Mathematic
+MATH- A,Introductory Statistic
+MATH- A,Introductory Statistic
+MATH- A,Introductory Statistic
+MATH- A,Introductory Statistic
+MATH- A,Cryptograph
+MATH- A,Linear Algebr
+MATH- A,Methods of Data Analysi
+MATH- A,Ind Stdy Game Theor
+MATH- A,Abstract Algebr
+MATH- A,Geometr
+MATH- A,Ind Stdy Graphs and Tree
+MATH- C,Individual Researc
+MGMT- A,Fundamentals of Busines
+MGMT- A,Fundamentals of Busines
+MGMT- A,Business & Mgmt Responsibilit
+MGMT- A,Accountin
+MGMT- A,Applied Health Scienc
+MGMT- A,Organizational Behavio
+MGMT- A,Marketin
+MUSC- A,Ear Trainin
+MUSC- A,Introduction to Music Theor
+MUSC- A,Music Theory I Harmonic Prac
+MUSC- A,Music Theory II Tonal Harmon
+MUSC- A,Western Music 
+MUSC- A,World Music Eurasi
+MUSC- A,Mus Theory III - Form & Analy
+MUSC- A,West African Mande Dance/Musi
+MUSC- A,Music of the Caribbean Basi
+MUSC- A,Conductin
+MUSC- A,History of Pop Music in U.S
+MUSC- A,Music & Worship in World Cul
+MUSC- A,Ethnomusicol of Music Busines
+MUSC- A,Ind Stdy Carnatic Singin
+MUSC- A,Selected Topic
+MUSC- A,Beethove
+MUSC- A,Selected Topic
+MUSC- A,Ind Stdy Teaching Musi
+MUSP- C,Wheaton College Choral
+MUSP- C,Wheaton Chamber Orchestr
+MUSP- C,Wind Symphon
+MUSP- C,Wheaton Jazz Ban
+MUSP- C,World Music Ensembl
+MUSP- C,Chamber Singer
+MUSP- A,Performance Study Violi
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Pian
+MUSP- A,Performance Study Pian
+MUSP- A,Performance Study Cell
+MUSP- A,Performance Study Piano
+MUSP- A,Performance Study Pian
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Pian
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Pian
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Obo
+MUSP- A,Performance Study Cell
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Violi
+MUSP- A,Performance Study Guita
+MUSP- A,Performance Study Bas
+MUSP- A,Performance Study Violi
+MUSP- A,Performance Study Guita
+NEUR- A,Independent Stud
+NEUR- A,Senior Sem in Neuroscienc
+PHIL- A,Introduction to Philosoph
+PHIL- A,Ethic
+PHIL- A,Logi
+PHIL- A,Ancient Greek Philosoph
+PHIL- A,Philosophy and Literatur
+PHIL- A,Bio-Ethic
+PHIL- A,Independent Stud
+PHIL- A,The Nature of Moralit
+PHIL- A,Feminist Theor
+PHIL- C,Individual Researc
+PHIL- C,Individual Researc
+PHYS- A,Electronic Circuit
+PHYS- A,Geolog
+PHYS- L,Geology La
+PHYS- A,Introductory Physics 
+PHYS- A,Introductory Physics 
+PHYS- A,Introductory Physics 
+PHYS- A,Intro Physics I (Enhanced
+PHYS- A,Intro Physics I (Enhanced
+PHYS- A,Intro Physics I (Enhanced
+PHYS- A,Modern Physic
+PHYS- A,Scientific Computin
+PHYS- A,Selected Topic
+PHYS- A,Statistical & Thermal Physic
+PHYS- A,Selected Topic
+PHYS- C,Individual Researc
+POLS- A,Legal IssuesSexuality/Gende
+POLS- A,Independent Stud
+POLS- A,The American Political Syste
+POLS- A,International Politic
+POLS- A,Intro to Comparative Politic
+POLS- A,African Politic
+POLS- A,Congress & Legislative Proces
+POLS- A,Modern Political Theor
+POLS- A,U.S. Foreign Polic
+POLS- A,The American Presidenc
+POLS- A,Politics of the Middle Eas
+POLS- A,African American Politic
+POLS- A,International Political Eco
+POLS- A,Principles of Pol Advertisin
+POLS- A,International Security Polic
+POLS- A,Independent Stud
+POLS- A,Seminar America
+POLS- C,Individual Researc
+PSY- A,Introductory Psycholog
+PSY- A,Introductory Psycholog
+PSY- A,Quantitative Research Method
+PSY- A,Quantitative Research Method
+PSY- A,Quantitative Research Method
+PSY- A,Child Developmen
+PSY- A,Learning and Memor
+PSY- A,Cognitio
+PSY- A,"Brain, Mind and Behavior
+PSY- A,Comparative Animal Behavio
+PSY- A,Drugs and Behavio
+PSY- A,Social Psycholog
+PSY- A,Lifespan Developmen
+PSY- A,Abnormal Psycholog
+PSY- A,Adolescent Developmen
+PSY- A,Independent Stud
+PSY- A,Lab in Social Psycholog
+PSY- A,Lab in Cognitive Psycholog
+PSY- A,Lab in Child Developmen
+PSY- A,Industrial & Organiz Psyc
+PSY- A,Behavioral Neuroendocrinolog
+PSY- A,Senior Semina
+PSY- A,Senior Semina
+PSY- A,Senior Semina
+PSY- A,Senior Semina
+PSY- C,Individual Researc
+PSY- C,Individual Researc
+REL- A,Intro to Study World Religion
+REL- A,Intro To The Hebrew Bibl
+REL- A,Perspectives on Death & Dyin
+REL- A,Mysticism and Spiritualit
+REL- A,Faith after the Holocaus
+REL- A,Music & Worship in World Cul
+REL- A,Independent Stud
+REL- A,Sem Religion in Anth Perspec
+REL- A,Liberation Theolog
+REL- A,Semina
+REL- A,Independent Stud
+REL- C,Individual Researc
+RUSS- A,Beginning Russian 
+RUSS- A,Beginning Russian 
+RUSS- A,Russian Dram
+RUSS- A,Intermediate Russian 
+RUSS- A,Adv Russ Composition & Con
+SOC- A,Contemporary Social Problem
+SOC- A,Media and Societ
+SOC- A,Self and Societ
+SOC- A,Criminolog
+SOC- A,Society & The Meaning of Wor
+SOC- A,Race and Ethnicit
+SOC- A,Conflict and Genocid
+SOC- A,Gender Inequalit
+SOC- A,Independent Stud
+SOC- A,Sociological Theor
+SOC- A,Selected Topic
+SOC- A,Senior Semina
+SOC- C,Individual Researc
+SOC- C,Individual Researc
+SOC- C,Individual Researc
+THEA- A,Rehearsal and Productio
+THEA- A,Beginning Actin
+THEA- A,Jazz Danc
+THEA- A,Balle
+THEA- A,Beginning Directin
+THEA- A,Stagecraf
+THEA- A,Introduction to Desig
+THEA- A,History of Western Theatr
+THEA- A,Dance Compan
+THEA- A,Advanced Actin
+THEA- A,Independent Stud
+WGS- A,Legal Issues Sexuality/Gende
+WGS- A,Intro to Women's Studie
+WGS- A,Sweatshops in World Econom
+WGS- A,"U.S. Women, -
+WGS- A,Women in U.S. Econom
+WGS- A,Feminist Fictio
+WGS- A,Gender Inequalit
+WGS- A,Feminist Theor
+WGS- A,Sexual Politics of Film Noi
+WGS- A,Ind Stdy Feminist Parentin
+WGS- A,Seminar Black Feminist Theor
+,
