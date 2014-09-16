@@ -16,7 +16,7 @@ class List:
 	
 	class Node:
 	
-		def __init__(self, cargo = None, next = None, prev = None):
+		def __init__(self, cardName = None, next = None, prev = None, ):
 			""" Contructs a basic node class.
 
 				Args:
@@ -24,7 +24,7 @@ class List:
 				returns:
 					None
 			"""
-			self.car = cargo
+			self.car = cardName
 			self.next = next
 			self.prev = prev
 
@@ -34,9 +34,9 @@ class List:
 				Args:
 					self also access within its own object
 				Returns:
-					The cargo from the node as a string
+					The cargo and cost from the node as a string
 			"""
-			return str(self.car)
+			return str(self.car) + ", " + str(self.cost)
 
 		def setNext(self, next):
 			""" Sets the next link for the node.
