@@ -84,14 +84,10 @@ table {
 body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
-
-    background: rgb(215, 215, 215);
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
-    background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+   background: radial-gradient(#f9be4e, #f2e244, #f0e9a3); /* Standard syntax */
+    
+}
+   
 }
 
 /*
@@ -701,3 +697,30 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+
+.step #fancy{
+    font-family:"Times New Roman", Times, serif;
+    color:#2c82b6;
+    font-style: oblique;
+    position:relative;
+    font-size:125px;
+    text-decoration: underline;
+}
+.step #subtle{
+    font-size:20px;
+    position:relative;
+    text-indent: 10rem;
+}
+.step #underText{
+    font-size: 20px;
+    line-height: 2em;
+}
+#adjust-code{
+    position:relative;
+    left:-255px;
+}
+#adjust-img{
+    position:relative;
+    left:28px;
+}
