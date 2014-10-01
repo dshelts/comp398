@@ -4,7 +4,11 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  background: -webkit-linear-gradient(left top,  #5a5a5a , #f9fbc6); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right,   #5a5a5a   #f9fbc6); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #5a5a5a, #f9fbc6); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right,  r#5a5a5a,  #f9fbc6); /* Standard syntax */
+  color:#f4f4f4;
 }
 
 
@@ -94,9 +98,14 @@ body {
   letter-spacing: -1px;
 }
 
-#carousel-text{
-  /*background: #35352B;*/
-  /*color:black;*/
+#featurette-background{
+   background: -webkit-linear-gradient(bottom, #9ec7c8 , #f9fbc6); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top ,   #9ec7c8   #f9fbc6); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top , #9ec7c8, #f9fbc6); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top ,  r#9ec7c8,  #f9fbc6); /* Standard syntax */
+  border:2px solid;
+  border-radius: 45px;
+  color:black;#9ec7c8
 }
 
 
