@@ -123,6 +123,10 @@ body {
   border: 1px solid black;
   color:black;
 }
+#header-adjustment{
+  text-align:center;
+  
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
