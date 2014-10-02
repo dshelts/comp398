@@ -110,7 +110,19 @@ body {
   color:black;#9ec7c8
 }
 
-
+#button-color-grey{
+  background-color: grey;
+  border:1px solid white;
+}
+#button-color-green{
+  background-color: green;
+  border: 1px solid white; 
+}
+#button-color-2{
+  background-color: #6de1bb;
+  border: 1px solid black;
+  color:black;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
