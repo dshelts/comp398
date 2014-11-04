@@ -7,19 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="photos/icon.jpg">
-
-    <title>Carousel Template for Bootstrap</title>
+    <link rel="icon" href="images/icon.ico">
+    <title>Imaginary Traffic</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     
     
-   <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
-
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -29,15 +27,17 @@
 
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 
   </head>
 <!-- NAVBAR
 ================================================== -->
-  <body>
+  <body id="color-me-blue">
     <div class="navbar-wrapper">
       <div class="container">
 
         <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -50,20 +50,13 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">3D printers</a></li>
-                    <li><a href="#">Tech meets art</a></li>
-                    <li><a href="#">Robots</a></li>
-                   <!--  <li class="divider"></li>
-                    <li class="dropdown-header">Nav header</li> 
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>-->
-                  </ul>
+                <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+                <li><a href="/about"><span class="glyphicon glyphicon-inbox"></span>About</a></li>
+                <li><a href="/events"><span class="glyphicon glyphicon-bullhorn"></span>Events</a></li>
+                <li><a href="/submit"><span class="glyphicon glyphicon-flag"></span>Submit Event</a></li>
+
+            
+                 <!--   <li><form method="get" action="http://www.google.com/search" id="align-right"> <input type="text" name="q" size="31" maxlength="255" value="" /> <input type="submit" value="Google Search" /> <input type="radio" name="sitesearch" value="" /> The Web <input type="radio" name="sitesearch" value="imaginarytraffic.com" checked /> search<br /> </form></li> -->
                 </li>
               </ul>
             </div>
@@ -73,88 +66,63 @@
       </div>
     </div>
 
-
-      
-
-
-
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="photos/swarm1.jpg" alt="First slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1 id="carousel-text">Beware the Swarm!</h1>
-              <p id="carousel-text">The orb swarm project is an experiment in combining art and science. The team got together and created several large metal spheres that move autonomously.</p>
-              <p><a class="btn btn-lg btn-primary" href="http://www.orbswarm.com" role="button" id="button-color-grey">Read more!</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img src="photos/whale.png" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Wheaton's Maker Space.</h1>
-              <p>Exciting things are happening in Wheaton College's Maker Space!</p>
-              <p><a class="btn btn-lg btn-primary" href="http://whale.wheatoncollege.edu" role="button" id="button-color-2" >Learn more!</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img src="photos/makerbot.jpg" alt="Third slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>What's new with makerbot?</h1>
-              <p> Print your wildest creations!Find out what other people are making at thingiverse.</p>
-              <p><a class="btn btn-lg btn-primary" href="http://www.thingiverse.com" role="button" id="button-color-green">Thingiverse!</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div><!-- /.carousel -->
-    <div class="page-header" id="header-adjustment">
-     <h1>Recent Articles</h1>
+    <div class="jumbotron" id="jumbo1-bg">
+    <div class="row">
+    <img class="headline-image" src="images/events.jpg">
+    <div class="col-md-12" id="text-center"><h1> UNDER MAINTENANCE PLEASE EXCUSE MESS AND TYPOS</h1></div> </div>
     </div>
 
+
+
+       <!--  <div class="col-md-4">Here at Wheaton College the are many cool and exciting things happen around campus and we hope this website will help raise awareness of all the events.</div>
+      <div class="col-md-4"></div> -->
+
+
+
      
+
+
+
        <div class="container marketing">
+          <div class="row featurette" id="featurette-background">
+        <div class="col-md-10">
+          <h2 class="featurette-heading">Our plan</h2>
+          <p class="lead">We plan to create a webpage to collect cool and interesting things that people are doing around campus. We feel it is invaluable to share the events and creations people are holding on here at Wheaton. This website is in it's infancy but we hope to have it soon up and running. This is a temporary message.</p>
+        </div>
+      </div>
+    
+  
 
       <!-- Three columns of text below the carousel -->
+   
       <div class="row">
+       <div class="page-header" id="header-adjustment">
+        <h1>Events</h1>
+       </div>
         <div class="col-lg-4">
-          <img class="img-circle" src="photos/launch.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="images/launch.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
           <h2>Landing pad established where to launch to?</h2>
           <p>This site has just established. We are working on its direction. We hope to bring you information and news of the newest technologies as they take shape in the world.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="about/" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="photos/profile.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="images/profile.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
           <h2>Any suggestions for the webpage?</h2>
           <p>Go to our contact page and drop us an email.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="contact/" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="photos/somethingdifferent.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>And now for something completely different!</h2>
-          <p>You know the drill.</p>
+          <img class="img-circle" src="images/somethingdifferent.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>These are top event bubbles</h2>
+          <p>Essentially events and goings on around campus with be in an abbreviated version here. If you want to know more click the link below.</p>
           <p><a class="btn btn-default" href="http://1.bp.blogspot.com/-ISC1OOOUZvk/Ttc8_CbwZPI/AAAAAAAAAVg/j98455fkZCc/s1600/spanish+inquisition.jpg" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
       
-      <div class="row featurette" id="featurette-background">
-        <div class="col-md-10">
-          <h2 class="featurette-heading">Our plan</h2>
-          <p class="lead">We plan to create a webpage to collect cool and interesting things that people are doing with technology across the world in one place. This is in it's infancy, but having a libray of projects that people have done just feels right. Creativity needs to be shared and we hope to create a space for just that purpose.</p>
-        </div>
-      </div>
+     
+      
+
+
       <hr class="featurette-divider">
   
  
@@ -206,9 +174,21 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <script src="bootstrap/js/docs.min.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
+    
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+    
+    <!-- Google analytics script -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-55895171-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<!-- ./google -->
   </body>
 </html>
