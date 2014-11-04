@@ -1,0 +1,30 @@
+.headline{
+	margin-top:5em;
+	
+}
+#wheatonlogo{
+	border-radius: 30px;
+}
+
+#personal_headline{
+	
+	font-size: 5em;
+	margin-bottom: 1em;
+	text-align: left;
+	margin-top: 1em;
+}
+
+.contact-container{
+	padding: 15px;
+	text-align: center;
+}
+
+.contact-text{
+	max-width: 330px;
+	margin: 0px auto;
+
+}
+
+.dropdown-center{
+	left:230px;
+}

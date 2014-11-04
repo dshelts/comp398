@@ -1,0 +1,2 @@
+This is a presentation using a impress.js that turns a webpage into a fancy presentation.
+If you want to view the presentation on media queries you can go to my website imaginarytraffic.com/mediaQueries
