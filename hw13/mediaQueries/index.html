@@ -1,0 +1,139 @@
+<!doctype html>
+
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Media Queries | a presentation based on the CSS3 tool to help make your web pages cross platform compatible | by Us</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Bartek Szopka" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body class="backGround impress-not-supported">
+
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+<div id="impress">
+    <div id="bored" class="step" data-x="-1000" data-y="-1500">
+        <q id="fancy"><b>Media Queries<br></b></q>
+        <q><p id="subtle">by Alex, Drew, Nathan, and Evan</p></q>
+    </div>
+
+    <div class="step" data-x="-2000" data-y="-1500" data-z="-100">
+    	<q>What media queries allow you to do is manipulate the display of your website based on question you ask the browser. Making your website more user friendly between platforms.</q>
+    </div>
+    <div class="step" data-x="-3000" data-y="-1000" data-z="-100">
+        <q>Here are some comparison examples from: <a href="http://www.adobe.com/devnet/dreamweaver/articles/introducing-media-queries.html">Media-Queries-introduction</a></q>
+    </div>
+     <div class="step" data-x="-2000" data-y="-800" data-z="-100" data-rotate-y="45">
+        <q><img src="photos/fig01.jpg"><br> <p id="underText">This webpage is in a regular browser has a two column layout.</p></q>
+    </div>
+    <div class="step" data-x="-2000" data-y="-800" data-z="-900" data-rotate-y="45">
+        <q><img src="photos/fig02.jpg"><br> <p id="underText">Same webpage displayed on a tablet has a single column layout.</p></q>
+    </div>
+    <div class="step" data-x="-2000" data-y="-800" data-z="-1500" data-rotate-y="45">
+         <q><img src="photos/fig03.jpg"><br> <p id="underText">Same webpage displayed on an iPod.</p></q>
+    </div>
+
+    <div class="step" data-x="-2000" data-y="-800" data-z="-2000" data-rotate-y="45">
+         <q><img src="photos/fig03.jpg"> <img src="photos/fig04.jpg"><br> <p id="underText">The webpage displayed on ipod with media query vs. without a media query</p></q>
+
+    </div>
+    
+    <div class="step" data-x="-1500" data-y="-300" data-z="-1500">
+        <q><p>Now we move onto syntax.</p></q>
+    </div>
+    
+    <div class="step" data-x="0" data-y="-2000" data-z="-200">
+        <q><b>Syntax: </b><br></q>
+        <q>We will discuss how a media query works.</q>
+    </div>
+
+    <div class="step" data-x="500" data-y="-1500" data-z="-400">
+        <img src="photos\example1.png"><br><q id="underText">This is a simple example of a media query.</q>
+    </div>
+
+    <div class="step" data-x="1800" data-y="-1200" data-z="-400">
+        <q><img src="photos/fig01.jpg" id="adjust-img"><br><img src="photos/example01.png" id="adjust-code">  <p id="underText">This code renders the webpage to be tablet friendly.</p>
+    </div>
+
+    <div class="step slide" data-x="500" data-y="-500" data-z="-200">
+        <q>This is where we get into the arguements for media queries.</q>
+    </div>
+
+    <div class="step slide" data-x="500" data-y="200" data-z="0">
+        <q><b>@media</b><br>This is at the root of the media query. <b>@media</b> starts all queries to the browser to gain information about the environment the webpage is being displayed in.</q>
+    </div>
+    
+    <div class="step slide" data-x="500" data-y="200" data-z="-1" data-rotate-y="180">
+        <q><img src="photos/example02.png"><p id="underText">The @media rule allows different style rules for different media in the same style sheet. The style in the example tells the browser to display a 14 pixels Verdana font on the screen. But if the page is printed, it will be in a 20 pixels font, and in a red color</p></q>
+    </div>
+
+    <div class="step slide" data-x="1500" data-y="200" data-z="0">
+        <q> Using @media is simple if you know how the logic works.<br>
+        These are the basic logical operators that can follow <b>@media</b>:<br></q>
+        <q> <b>and</b>, ' <b>,</b> ' , <b>not</b>, <b>only</b></q>
+    </div>
+    <div class="step slide" data-x="500" data-y="1000" data-z="0">
+        <q><b>and</b>:<br>This is the logical and. Both arguments have to be true to return true. Here is an example:</q>
+    </div>
+     <div class="step slide" data-x="500" data-y="1000" data-z="-1" data-rotate-y="180">
+        <q><img src = "photos/example03.png"><br><img src="photos/example04.png"></q><p>If the min-width is at least 700px and the orientation is landscape then the css style is applied. The second example is similar to the first but asks if the browser is on a tv.</p>
+    </div>
+    <div class="step slide" data-x="1500" data-y="1000" data-z="0">
+        <q><b>,</b> :<br>This is the logical or. Only one of the arguments have to be true to return true. Here is an example:</q>
+    </div>
+     <div class="step slide" data-x="1500" data-y="1000" data-z="-1" data-rotate-y="180">
+        <q><img src = "photos/example05.png"></q><p>If any of these arguments are true then the css style is applied.</p>
+    </div>
+    
+    <div class="step slide" data-x="500" data-y="1800" data-z="0">
+        <q><b>not</b> :<br>This is the logical not. Not takes the opposite of what the css specific boolean would evaluate to. Here is an example:</q>
+    </div>
+    <div class="step slide" data-x="500" data-y="1800" data-z="-1" data-rotate-y="180">
+        <q><img src = "photos/example06.png"></q><br> This evaluates as this in css:<br><img src="photos/example07.png"></q><p>That evaluates specifically in css: not (x and y) so this means the not is evaluating after the and statement. </p>
+    </div>
+
+    <div class="step slide" data-x="1500" data-y="1800" data-z="0">
+        <q><b>only</b> :<br>This prevents older browsers from applying newer features. Here is an example:</q>
+    </div>
+    <div class="step slide" data-x="1500" data-y="1800" data-z="-1" data-rotate-y="180">
+        <q><img src="photos/example08.png"><br>The <b>"only"</b> keyword allows for newer css stylings to be excluded from older browsers. </q>
+    </div>
+
+ 	<div class="step" data-x="-800" data-y="0" data-z="-1000" data-rotate-y="180">
+    	<q> With media queries your webpages will look great on all technologies past, present, and future. And if you would like to know more check out <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries">W3 Schools.</a><br>Thank you for your time!</q>
+    </div>
+    
+    <div id="overview" class="step" data-x="0" data-y="-1000" data-scale="5">
+    </div>
+
+</div>
+<div class="hint">
+    <p>Use a spacebar or arrow keys to navigate</p>
+</div>
+<script>
+if ("ontouchstart" in document.documentElement) { 
+    document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+}
+</script>
+
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
+
