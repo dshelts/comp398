@@ -11,18 +11,21 @@ MongoClient.connect("mongodb://dshelly:abc123@ds047930.mongolab.com:47930/messar
   	console.log(err);
   }
 
-	var collection = db.collection('hw14');
+	var collection = db.collection('hw14', function(err, collection){
+    	collection.remove({},function(err, removed){
+    		});
+		});
+
 	// Clearing out the collection
 	//collection.remove({});
 	var testArray = [];
 	for(i=0; i<2500; i++){
 		testArray.push({myKey: i })
-		console.log("adding "+i)
 	}
 	
 	
 	collection.insert(testArray, {w:1}, function(err, result) {});
-	console.log("got here")
+	console.log("finished insert")
 
 
 
