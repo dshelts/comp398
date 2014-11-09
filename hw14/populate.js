@@ -13,11 +13,10 @@ MongoClient.connect("mongodb://dshelly:abc123@ds047930.mongolab.com:47930/messar
 
 	var collection = db.collection('hw14', function(err, collection){
     	collection.remove({},function(err, removed){
-    		});
+    		});//clearing out collection
 		});
 
-	// Clearing out the collection
-	//collection.remove({});
+	
 	var testArray = [];
 	for(i=0; i<2500; i++){
 		testArray.push({myKey: i })
