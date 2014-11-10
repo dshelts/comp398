@@ -7,7 +7,7 @@ MongoClient.connect("mongodb://dshelly:abc123@ds047930.mongolab.com:47930/messar
   if(!err) {
     console.log("We are connected");
   }
-  else{
+  else{//error
   	console.log(err);
   }
 
