@@ -1,0 +1,14 @@
+#navbar-color{
+	background-color:#1f6a96;
+	border-color:#bbbbbb;
+}
+
+.navbar .nav > li > a{
+	color:white;
+}
+.navbar .navbar-brand{
+	color:white;
+}
+body{
+	background-color: #515151;
+}
